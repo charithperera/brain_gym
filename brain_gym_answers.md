@@ -1,7 +1,7 @@
 ## Question One
 You stand at a fork in the road. Next to each of the two forks, there stands a guard. You know the following things: First that one path leads to paradise, the other leads to Death. You cannot distinguish between the two paths. You also know that one of the two guards always tells the truth and the other always lies. You have permission to ask one guard one question to discover which path leads to paradise. What one question would you ask to guarantee you take the path to paradise?
 
-> Which door would the other guard say leads to paradise?
+> Which door would the other guard say leads to paradise?  
 > [Answer](http://goodriddlesnow.com/riddles/view/91)
 
 ## Question Two
@@ -9,13 +9,13 @@ A man walks into an art gallery and concentrates on one picture in particular. T
 
 Who is in the painting?
 
-> His Son or Himself
+> His Son or Himself  
 > [Answer](https://riddlesbrainteasers.com/man-picture/)
 
 ## Question Three
 Name four days of the week that start with the letter "t"?
 
-> Tuesday, Thursday, Today, Tomorrow
+> Tuesday, Thursday, Today, Tomorrow  
 > [Answer](https://answers.yahoo.com/question/index?qid=20080420093329AA5ojHP)
 
 ## Question Four
@@ -29,14 +29,14 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 
 What is highest number of figs you can get to Capertown?
 
-> 833 Figs
+> 833 Figs  
 > [Answer](http://goodriddlesnow.com/riddles/view/566)
 
 ## Question Six
 
 Question: A surgeon named Hal and a bus driver named Al are both in love with the same woman named Paige. Al needs to go for a long trip of 10 days. Before he left he gave Paige 10 apples. Why?
 
-> An apple a day keeps the doctor away
+> An apple a day keeps the doctor away  
 > [Answer](http://goodriddlesnow.com/riddles/by/funny-riddles/page:2)
 
 ## Question Seven
@@ -45,5 +45,5 @@ Question: A young woman is attending her mother's funeral. While there, she meet
 
 Why does she kill her sister?
 
-> To get him to come to the funeral
+> To get him to come to the funeral  
 > [Answer](http://www.braingle.com/brainteasers/teaser.php?op=2&id=6677&comm=0)
